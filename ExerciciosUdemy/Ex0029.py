@@ -1,5 +1,28 @@
 #Escreva um programa que replique o padrão de carecteres descrito a seguir.
 
+'''
+*
+**
+***
+****
+*****
+*****
+******
+*******
+********
+*********
+**********
+*********
+********
+*******
+******
+*****
+****
+***
+**
+*
+'''
+
 #Dica: use loop for
 
 for i in range(1,10):
