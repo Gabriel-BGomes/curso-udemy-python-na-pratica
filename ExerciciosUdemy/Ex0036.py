@@ -1,0 +1,1 @@
+#Resolva o exercício anterior para as categorias 1 a 8. Ultilize estruturas alinhadas.
