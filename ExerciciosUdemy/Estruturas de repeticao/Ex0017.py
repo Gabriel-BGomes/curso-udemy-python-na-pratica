@@ -1,0 +1,1 @@
+#Escreva um programa que peça números inteiros positivos indefinidamente e armazene-os em uma lista. O programa deverá ser encerrado caso o número digitado seja negativo ou nulo. Ao final mosre na tela a quantidade de números pares e ímpares
